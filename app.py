@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000/analyze_report"
+API_URL = "https://report-simplifier.onrender.com/analyze_report"
 
 # ✅ Page config
 st.set_page_config(page_title="🩺 Elder-Friendly Medical Report Helper", layout="wide")
