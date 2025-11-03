@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+google-cloud-translate
+pdfplumber
+pytesseract
+Pillow
+python-multipart
+deep-translator
